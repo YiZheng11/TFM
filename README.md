@@ -21,7 +21,7 @@ Raw sequencing data (mouse) and GTEx files are not included for privacy and stor
 ├── htseq_gtf_filt.sh               # HTSeq counting script using filtered GTF
 └── trim.sh                         # Read trimming and basic QC for mouse FASTQ files
 ```
-(Directories for data, results and figures should be created locally; adjust paths inside the scripts to match your environment.)
+Directories for data, results and figures should be created locally; adjust paths inside the scripts to match your environment.
 
 ## Main analyses
 
