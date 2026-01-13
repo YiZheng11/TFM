@@ -1,0 +1,2 @@
+ONTOLOGY	ID	Description	setSize	enrichmentScore	NES	pvalue	p.adjust	qvalue	rank	leading_edge	core_enrichment
+BP	GO:0032868	response to insulin	13	-0.780184433600276	-2.07490428375945	3.87489852158116e-05	0.0495599520910231	0.045764590960148	227	tags=85%, list=22%, signal=67%	PDK2/HADH/UCP3/PDK4/LONP1/UCP2/CAT/HMGCS2/HADHA/SLC25A33/IDE

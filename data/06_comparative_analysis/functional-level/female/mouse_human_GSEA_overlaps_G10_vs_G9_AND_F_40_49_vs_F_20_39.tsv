@@ -1,0 +1,119 @@
+ID	Description_mouse	NES_mouse	padj_mouse	Description_human	NES_human	padj_human	pattern
+GO:0044242	cellular lipid catabolic process	-2.77487156237911	1.955e-08	NA	NA	NA	mouse_specific
+GO:0006119	oxidative phosphorylation	2.56716597267802	1.955e-08	NA	NA	NA	mouse_specific
+GO:1990351	transporter complex	2.5156743116701	1.955e-08	NA	NA	NA	mouse_specific
+GO:0098803	respiratory chain complex	2.49334613628261	1.955e-08	NA	NA	NA	mouse_specific
+GO:0098800	inner mitochondrial membrane protein complex	2.44289954344509	1.955e-08	inner mitochondrial membrane protein complex	-2.00013233986028	0.000251796470151912	mouse_up_human_down
+GO:0098798	mitochondrial protein-containing complex	2.20641002966732	1.955e-08	mitochondrial protein-containing complex	-2.44275020834374	6.465e-08	mouse_up_human_down
+GO:0032787	monocarboxylic acid metabolic process	-2.30846825143	2.37548807741412e-08	NA	NA	NA	mouse_specific
+GO:0044255	cellular lipid metabolic process	-2.25941998212006	4.93260277677659e-08	NA	NA	NA	mouse_specific
+GO:0015986	proton motive force-driven ATP synthesis	2.40593116069328	2.82445570642467e-07	proton motive force-driven ATP synthesis	-2.06588637707188	0.0020626677497873	mouse_up_human_down
+GO:0005747	mitochondrial respiratory chain complex I	2.4434728324902	4.53441459555185e-07	NA	NA	NA	mouse_specific
+GO:0016054	organic acid catabolic process	-2.30238101323206	7.69178150838634e-07	NA	NA	NA	mouse_specific
+GO:0044248	cellular catabolic process	-1.92254481462296	2.30041725333895e-06	NA	NA	NA	mouse_specific
+GO:0032991	protein-containing complex	1.76408548539993	4.61842786729686e-06	protein-containing complex	-2.01721761279607	6.465e-08	mouse_up_human_down
+GO:0005777	peroxisome	-2.30993984962938	8.44378907036237e-06	NA	NA	NA	mouse_specific
+GO:0030554	adenyl nucleotide binding	-1.87487704086839	1.20188505764104e-05	NA	NA	NA	mouse_specific
+GO:1901575	organic substance catabolic process	-1.84118938369077	2.12565404551503e-05	NA	NA	NA	mouse_specific
+GO:0042773	ATP synthesis coupled electron transport	2.14671879069533	5.52851297542579e-05	ATP synthesis coupled electron transport	-1.94201779757988	0.00239742232683851	mouse_up_human_down
+GO:0033108	mitochondrial respiratory chain complex assembly	2.01072650549937	8.98850034748633e-05	NA	NA	NA	mouse_specific
+GO:1901363	heterocyclic compound binding	-1.6724784412088	0.000103280674327556	NA	NA	NA	mouse_specific
+GO:0043168	anion binding	-1.63905576369691	0.000224361616382472	NA	NA	NA	mouse_specific
+GO:0006577	amino-acid betaine metabolic process	-2.20470526587285	0.000279875823052617	NA	NA	NA	mouse_specific
+GO:0001676	long-chain fatty acid metabolic process	-2.27614599423563	0.000340478189495101	NA	NA	NA	mouse_specific
+GO:0005515	protein binding	-1.50700618548416	0.000390919953303535	NA	NA	NA	mouse_specific
+GO:0036094	small molecule binding	-1.51794499146538	0.000452916181204585	NA	NA	NA	mouse_specific
+GO:1901568	fatty acid derivative metabolic process	-2.18458940364594	0.000963968318380915	NA	NA	NA	mouse_specific
+GO:1902494	catalytic complex	1.71717829964671	0.000963968318380915	catalytic complex	-2.0207872953721	2.23006981334834e-05	mouse_up_human_down
+GO:0097159	organic cyclic compound binding	-1.48801520415573	0.00116987083559576	NA	NA	NA	mouse_specific
+GO:0000062	fatty-acyl-CoA binding	-2.17296679441485	0.00140544499383435	NA	NA	NA	mouse_specific
+GO:0033865	nucleoside bisphosphate metabolic process	-1.94558974658422	0.00140544499383435	NA	NA	NA	mouse_specific
+GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	-2.11811603252119	0.00190942577648534	NA	NA	NA	mouse_specific
+GO:0016491	oxidoreductase activity	-1.59249446958884	0.00335647175307623	NA	NA	NA	mouse_specific
+GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	-2.02077746977104	0.00340099349799396	NA	NA	NA	mouse_specific
+GO:0070069	cytochrome complex	1.94523950229613	0.00450278425188104	NA	NA	NA	mouse_specific
+GO:0042802	identical protein binding	-1.57192151333484	0.00534191308958368	NA	NA	NA	mouse_specific
+GO:0050896	response to stimulus	-1.4255400115192	0.00666782643207269	NA	NA	NA	mouse_specific
+GO:1901566	organonitrogen compound biosynthetic process	1.50918979888675	0.00707755519774327	organonitrogen compound biosynthetic process	-1.74582664830173	0.000251796470151912	mouse_up_human_down
+GO:0005743	mitochondrial inner membrane	1.45092362745732	0.00835985706950222	NA	NA	NA	mouse_specific
+GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	-1.98202001541373	0.0123128410227578	NA	NA	NA	mouse_specific
+GO:0042221	response to chemical	-1.51117976343702	0.012866911367753	NA	NA	NA	mouse_specific
+GO:0044093	positive regulation of molecular function	1.77207084795548	0.0135286220117056	positive regulation of molecular function	1.96522762589737	0.00604167184155001	both_up
+GO:0009295	nucleoid	-1.86478533016921	0.0138387255510697	NA	NA	NA	mouse_specific
+GO:0006122	mitochondrial electron transport, ubiquinol to cytochrome c	1.89336113472474	0.020009234906742	NA	NA	NA	mouse_specific
+GO:0008610	lipid biosynthetic process	-1.7100987121111	0.0203144471609929	NA	NA	NA	mouse_specific
+GO:0015267	channel activity	1.8488587305641	0.026889215324115	NA	NA	NA	mouse_specific
+GO:0003995	acyl-CoA dehydrogenase activity	-1.92693393802525	0.0320669476957607	NA	NA	NA	mouse_specific
+GO:0065009	regulation of molecular function	1.61443633914707	0.033990781654858	regulation of molecular function	1.92983878544059	0.0032951301428483	both_up
+GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	-1.91285872749791	0.0356921070678284	NA	NA	NA	mouse_specific
+GO:0016746	acyltransferase activity	-1.67910357725341	0.0356921070678284	NA	NA	NA	mouse_specific
+GO:1901681	sulfur compound binding	-1.79735913752021	0.0365282827228857	NA	NA	NA	mouse_specific
+GO:0005261	monoatomic cation channel activity	1.87900540034999	0.0369225334593721	NA	NA	NA	mouse_specific
+GO:0003015	heart process	1.77601935197424	0.03994322685576	NA	NA	NA	mouse_specific
+GO:0033218	amide binding	-1.71472308183367	0.03994322685576	NA	NA	NA	mouse_specific
+GO:0016853	isomerase activity	-1.78819690679292	0.0403797021872416	NA	NA	NA	mouse_specific
+GO:0008374	O-acyltransferase activity	-1.89475140661643	0.0405219525161492	NA	NA	NA	mouse_specific
+GO:0006720	isoprenoid metabolic process	-1.8969020827551	0.0411987870435237	NA	NA	NA	mouse_specific
+GO:0035384	thioester biosynthetic process	-1.78684616433983	0.0430017690369015	thioester biosynthetic process	-1.92554187030134	0.0116922561929391	both_down
+GO:0016747	acyltransferase activity, transferring groups other than amino-acyl groups	-1.7517142832795	0.0435892594714512	NA	NA	NA	mouse_specific
+GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	1.82013291613648	0.0463693927073944	NA	NA	NA	mouse_specific
+GO:0005840	ribosome	1.54663928268626	0.0466036335364176	NA	NA	NA	mouse_specific
+GO:0004222	metalloendopeptidase activity	-1.84062313360861	0.0483226913046982	NA	NA	NA	mouse_specific
+GO:0043604	NA	NA	NA	amide biosynthetic process	-1.97377062011262	5.65541846072306e-05	human_specific
+GO:0032543	NA	NA	NA	mitochondrial translation	-2.07446648390148	6.45776547133996e-05	human_specific
+GO:0019866	NA	NA	NA	organelle inner membrane	-1.6755074715693	0.000289870931031488	human_specific
+GO:0006974	NA	NA	NA	DNA damage response	2.2392085820825	0.00031614415499066	human_specific
+GO:0044391	NA	NA	NA	ribosomal subunit	-2.05718186629774	0.000673485761737367	human_specific
+GO:0072527	NA	NA	NA	pyrimidine-containing compound metabolic process	2.24950326510702	0.000742852501972713	human_specific
+GO:0003735	NA	NA	NA	structural constituent of ribosome	-2.08593679634012	0.000883759781510214	human_specific
+GO:0009152	NA	NA	NA	purine ribonucleotide biosynthetic process	-1.94934030282092	0.00131793150636399	human_specific
+GO:0072528	NA	NA	NA	pyrimidine-containing compound biosynthetic process	2.17025392828789	0.00151584865645955	human_specific
+GO:0035556	NA	NA	NA	intracellular signal transduction	1.95093476781947	0.00189038962818458	human_specific
+GO:0097191	NA	NA	NA	extrinsic apoptotic signaling pathway	2.09800451005351	0.00239742232683851	human_specific
+GO:0097136	NA	NA	NA	Bcl-2 family protein complex	2.13084459797318	0.00295766700969834	human_specific
+GO:0009060	NA	NA	NA	aerobic respiration	-1.74455812741258	0.0032951301428483	human_specific
+GO:0006259	NA	NA	NA	DNA metabolic process	2.0226946902478	0.00349616745705098	human_specific
+GO:0003723	NA	NA	NA	RNA binding	-1.68347343174555	0.00349616745705098	human_specific
+GO:0008630	NA	NA	NA	intrinsic apoptotic signaling pathway in response to DNA damage	2.08687715837223	0.00499851320133596	human_specific
+GO:0007166	NA	NA	NA	cell surface receptor signaling pathway	1.92437285317725	0.00517020221769356	human_specific
+GO:0006260	NA	NA	NA	DNA replication	2.04918720432856	0.00548800570455343	human_specific
+GO:0097193	NA	NA	NA	intrinsic apoptotic signaling pathway	1.97485905690526	0.00548800570455343	human_specific
+GO:0043412	NA	NA	NA	macromolecule modification	1.71600651561856	0.00825515675702684	human_specific
+GO:0042391	NA	NA	NA	regulation of membrane potential	1.94054799912618	0.0089779395052978	human_specific
+GO:0051049	NA	NA	NA	regulation of transport	1.88224549341694	0.00936577576604676	human_specific
+GO:0043269	NA	NA	NA	regulation of monoatomic ion transport	1.95608433732562	0.00941638500139628	human_specific
+GO:0016310	NA	NA	NA	phosphorylation	1.88871579806086	0.00941638500139628	human_specific
+GO:0000315	NA	NA	NA	organellar large ribosomal subunit	-1.9068070536608	0.00972980025529314	human_specific
+GO:0038034	NA	NA	NA	signal transduction in absence of ligand	2.01624056886398	0.0101525860393159	human_specific
+GO:0071887	NA	NA	NA	leukocyte apoptotic process	1.99494596014643	0.0101525860393159	human_specific
+GO:0015252	NA	NA	NA	proton channel activity	-1.98569802347252	0.0101525860393159	human_specific
+GO:0015453	NA	NA	NA	oxidoreduction-driven active transmembrane transporter activity	-1.95444979449097	0.0101525860393159	human_specific
+GO:0065008	NA	NA	NA	regulation of biological quality	1.71913469302742	0.0101525860393159	human_specific
+GO:1990204	NA	NA	NA	oxidoreductase complex	-1.81730554070392	0.0102285929964682	human_specific
+GO:0008219	NA	NA	NA	cell death	1.67697518940841	0.0115644575858459	human_specific
+GO:0140097	NA	NA	NA	catalytic activity, acting on DNA	1.92727735843532	0.0119883129883559	human_specific
+GO:0016301	NA	NA	NA	kinase activity	1.84470753401808	0.0119883129883559	human_specific
+GO:0016469	NA	NA	NA	proton-transporting two-sector ATPase complex	-2.02122404607673	0.0125163059397202	human_specific
+GO:0006120	NA	NA	NA	mitochondrial electron transport, NADH to ubiquinone	-1.85284821442427	0.0162174547886887	human_specific
+GO:0003954	NA	NA	NA	NADH dehydrogenase activity	-1.91501763019081	0.0164448118135694	human_specific
+GO:0008203	NA	NA	NA	cholesterol metabolic process	-1.9841218336887	0.0166294536853	human_specific
+GO:0016772	NA	NA	NA	transferase activity, transferring phosphorus-containing groups	1.79997054944515	0.0166294536853	human_specific
+GO:0015078	NA	NA	NA	proton transmembrane transporter activity	-1.86762787943052	0.0180993086965339	human_specific
+GO:0007548	NA	NA	NA	sex differentiation	1.96539791053284	0.0187093412135799	human_specific
+GO:0009132	NA	NA	NA	nucleoside diphosphate metabolic process	1.94379497187471	0.0215607969048298	human_specific
+GO:0009055	NA	NA	NA	electron transfer activity	-1.64969152041692	0.0257939869998968	human_specific
+GO:0006099	NA	NA	NA	tricarboxylic acid cycle	-1.89388555580947	0.0264039985295396	human_specific
+GO:0071214	NA	NA	NA	cellular response to abiotic stimulus	1.88655688547632	0.0281735556492514	human_specific
+GO:0010959	NA	NA	NA	regulation of metal ion transport	1.93769658725666	0.0284773006155499	human_specific
+GO:0006915	NA	NA	NA	apoptotic process	1.59911836201786	0.031158640930521	human_specific
+GO:0005216	NA	NA	NA	monoatomic ion channel activity	-1.88193028270329	0.0315336758045788	human_specific
+GO:0006284	NA	NA	NA	base-excision repair	1.86094672613145	0.0322237699956803	human_specific
+GO:0006261	NA	NA	NA	DNA-templated DNA replication	1.89804804114715	0.0332327591009774	human_specific
+GO:0019904	NA	NA	NA	protein domain specific binding	1.83598964668456	0.0332327591009774	human_specific
+GO:1902531	NA	NA	NA	regulation of intracellular signal transduction	1.69362436377021	0.0353356733896177	human_specific
+GO:0005759	NA	NA	NA	mitochondrial matrix	-1.34884026723437	0.0371821781988232	human_specific
+GO:0048731	NA	NA	NA	system development	1.59077185089296	0.0378590855910584	human_specific
+GO:0023052	NA	NA	NA	signaling	1.50968995509028	0.0378907962925579	human_specific
+GO:0045597	NA	NA	NA	positive regulation of cell differentiation	1.83021593629947	0.0393741086075024	human_specific
+GO:0097190	NA	NA	NA	apoptotic signaling pathway	1.66110412743073	0.0393741086075024	human_specific
+GO:0048583	NA	NA	NA	regulation of response to stimulus	1.61004966298642	0.0426184429931534	human_specific

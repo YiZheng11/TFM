@@ -1,0 +1,47 @@
+ID	Description_mouse	NES_mouse	padj_mouse	Description_human	NES_human	padj_human	pattern
+GO:0006119	oxidative phosphorylation	-2.3362482780996	6.30985650048479e-07	NA	NA	NA	mouse_specific
+GO:0098798	mitochondrial protein-containing complex	-1.91427224041219	6.24813999010662e-06	NA	NA	NA	mouse_specific
+GO:0098803	respiratory chain complex	-2.23988027062675	2.0084650247031e-05	NA	NA	NA	mouse_specific
+GO:0042773	ATP synthesis coupled electron transport	-2.22555690674118	3.1728472237203e-05	NA	NA	NA	mouse_specific
+GO:0098800	inner mitochondrial membrane protein complex	-2.04505113296841	3.1728472237203e-05	NA	NA	NA	mouse_specific
+GO:0005743	mitochondrial inner membrane	-1.65150890072295	0.000176007965371947	NA	NA	NA	mouse_specific
+GO:1990351	transporter complex	-2.0681574741619	0.000346922675941885	NA	NA	NA	mouse_specific
+GO:0032991	protein-containing complex	-1.60309279932606	0.000877762120355963	NA	NA	NA	mouse_specific
+GO:0005747	mitochondrial respiratory chain complex I	-2.06303669224187	0.00149874467668201	NA	NA	NA	mouse_specific
+GO:0170035	L-amino acid catabolic process	2.18307176470185	0.00187879586721246	NA	NA	NA	mouse_specific
+GO:0005524	ATP binding	1.74307353048206	0.00238854280545583	NA	NA	NA	mouse_specific
+GO:0042776	proton motive force-driven mitochondrial ATP synthesis	-1.97661663513865	0.0062192358448509	NA	NA	NA	mouse_specific
+GO:1990204	oxidoreductase complex	-1.85363275747723	0.00690086751668098	NA	NA	NA	mouse_specific
+GO:0070069	cytochrome complex	-1.96441557074227	0.0141920595129943	NA	NA	NA	mouse_specific
+GO:0005758	mitochondrial intermembrane space	-1.87575842041766	0.0148208676479215	NA	NA	NA	mouse_specific
+GO:0042445	hormone metabolic process	-1.9426204937708	0.0180764687945764	NA	NA	NA	mouse_specific
+GO:0033108	mitochondrial respiratory chain complex assembly	-1.78319034632224	0.0180764687945764	NA	NA	NA	mouse_specific
+GO:0016054	organic acid catabolic process	1.64701976058806	0.0180764687945764	organic acid catabolic process	2.14489893037149	3.41537096853599e-05	both_up
+GO:1902494	catalytic complex	-1.58934383207413	0.0180764687945764	NA	NA	NA	mouse_specific
+GO:0000166	nucleotide binding	1.50938347933562	0.0203624790230781	NA	NA	NA	mouse_specific
+GO:0016301	kinase activity	1.90223736324615	0.0214084374100795	NA	NA	NA	mouse_specific
+GO:0010257	NADH dehydrogenase complex assembly	-1.79771444131043	0.0255800360822978	NA	NA	NA	mouse_specific
+GO:0016310	phosphorylation	1.70104752536771	0.036774929439844	NA	NA	NA	mouse_specific
+GO:0032368	regulation of lipid transport	-1.85075594298187	0.0398653743861806	NA	NA	NA	mouse_specific
+GO:0051239	regulation of multicellular organismal process	1.57282733586198	0.0398653743861806	NA	NA	NA	mouse_specific
+GO:0065003	protein-containing complex assembly	-1.53943419222322	0.0398653743861806	NA	NA	NA	mouse_specific
+GO:0044248	NA	NA	NA	cellular catabolic process	1.84761801023528	3.41537096853599e-05	human_specific
+GO:0044281	NA	NA	NA	small molecule metabolic process	1.55165464376147	0.000437509826006047	human_specific
+GO:0006082	NA	NA	NA	organic acid metabolic process	1.72278930823319	0.000537339846040874	human_specific
+GO:0072329	NA	NA	NA	monocarboxylic acid catabolic process	2.16392688573771	0.00117832844749106	human_specific
+GO:0006996	NA	NA	NA	organelle organization	-1.60432414353079	0.00459860869259524	human_specific
+GO:0032787	NA	NA	NA	monocarboxylic acid metabolic process	1.65486433021296	0.0173459937858944	human_specific
+GO:0006631	NA	NA	NA	fatty acid metabolic process	1.72405955640233	0.0183688387545803	human_specific
+GO:0006629	NA	NA	NA	lipid metabolic process	1.59403465466298	0.0183688387545803	human_specific
+GO:0016491	NA	NA	NA	oxidoreductase activity	1.53528974947417	0.0183688387545803	human_specific
+GO:0006163	NA	NA	NA	purine nucleotide metabolic process	1.52717072343132	0.0194792063801077	human_specific
+GO:1901606	NA	NA	NA	alpha-amino acid catabolic process	1.92225088666067	0.0227904064592401	human_specific
+GO:1901565	NA	NA	NA	organonitrogen compound catabolic process	1.60978835589351	0.0231236183515177	human_specific
+GO:0071949	NA	NA	NA	FAD binding	2.12431917386174	0.0241853563582454	human_specific
+GO:0009063	NA	NA	NA	amino acid catabolic process	1.83455553198198	0.0241853563582454	human_specific
+GO:0007006	NA	NA	NA	mitochondrial membrane organization	-1.70208541046845	0.0241853563582454	human_specific
+GO:0043228	NA	NA	NA	non-membrane-bounded organelle	-1.56340094833716	0.0241853563582454	human_specific
+GO:0016877	NA	NA	NA	ligase activity, forming carbon-sulfur bonds	2.05191535950348	0.0303010152514733	human_specific
+GO:0048471	NA	NA	NA	perinuclear region of cytoplasm	1.95450289307646	0.0349465211627855	human_specific
+GO:0045039	NA	NA	NA	protein insertion into mitochondrial inner membrane	-1.84899741919961	0.0426544159118331	human_specific
+GO:0030674	NA	NA	NA	protein-macromolecule adaptor activity	2.00735305715091	0.0441742488193362	human_specific

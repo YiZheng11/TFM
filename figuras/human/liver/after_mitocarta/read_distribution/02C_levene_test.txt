@@ -1,0 +1,7 @@
+Levene's Test for Homogeneity of Variance
+==========================================
+
+Levene's Test for Homogeneity of Variance (center = "median")
+          Df F value Pr(>F)
+group      7  1.1138 0.3509
+      282166               

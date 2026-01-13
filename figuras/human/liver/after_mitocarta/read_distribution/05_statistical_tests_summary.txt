@@ -1,0 +1,57 @@
+EXPLORATORY STATISTICAL ANALYSIS SUMMARY
+========================================
+
+Dataset: after_mitocarta 
+Number of conditions: 8 
+Conditions: M_60_79, M_50_59, F_60_79, M_20_39, F_50_59, M_40_49, F_40_49, F_20_39 
+Total observations: 282174 
+
+1. NORMALITY ASSESSMENT (Shapiro-Wilk)
+---------------------------------------
+      condition         W      p.value
+W...1   M_60_79 0.9246871 1.469880e-44
+W...2   M_50_59 0.9276971 6.556811e-44
+W...3   F_60_79 0.9233491 7.680266e-45
+W...4   M_20_39 0.9168093 3.651928e-46
+W...5   F_50_59 0.9099131 1.805771e-47
+W...6   M_40_49 0.9213628 2.979550e-45
+W...7   F_40_49 0.9194996 1.247533e-45
+W...8   F_20_39 0.9224458 4.980906e-45
+
+Interpretation: ALL conditions reject normality (p < 0.05)
+All 8 conditions show non-normal distributions.
+Result saved in '02B_shapiro_wilk_test.txt'.
+
+
+2. HOMOGENEITY OF VARIANCE (Levene's Test)
+-------------------------------------------
+Levene's Test for Homogeneity of Variance (center = "median")
+          Df F value Pr(>F)
+group      7  1.1138 0.3509
+      282166               
+
+Interpretation: Variances are homogeneous across conditions (p >= 0.05)
+Result saved in '02C_levene_test.txt'.
+
+
+3. GLOBAL TEST (Kruskal-Wallis)
+--------------------------------
+
+	Kruskal-Wallis rank sum test
+
+data:  logcounts by condition
+Kruskal-Wallis chi-squared = 280.38, df = 7, p-value < 2.2e-16
+
+
+Interpretation: At least one condition differs significantly (p < 0.05)
+Result saved in '03A_kruskal_wallis_test.txt'.
+
+
+4. POST HOC TEST (Dunn's Test)
+-------------------------------
+Number of pairwise comparisons: 28 
+Significant comparisons (p.adj < 0.05): 24 
+Non-significant comparisons (p.adj >= 0.05): 4 
+See '03B_dunn_posthoc_results.tsv' for all pairwise comparisons,
+including Z statistic, raw and adjusted p-values, and direction
+of the effect based on mean log2(counts + 1).

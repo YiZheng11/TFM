@@ -1,0 +1,46 @@
+ID	Description_mouse	NES_mouse	padj_mouse	Description_human	NES_human	padj_human	pattern
+GO:0000313	organellar ribosome	-2.31447577206411	4.09716754724213e-05	NA	NA	NA	mouse_specific
+GO:0005759	mitochondrial matrix	-1.83856642612718	5.07717979503039e-05	NA	NA	NA	mouse_specific
+GO:0003735	structural constituent of ribosome	-2.30171966527033	5.47888356512314e-05	NA	NA	NA	mouse_specific
+GO:0032543	mitochondrial translation	-1.93673331655942	0.00163699840009771	NA	NA	NA	mouse_specific
+GO:0000314	organellar small ribosomal subunit	-2.2043506802788	0.00194791439849441	NA	NA	NA	mouse_specific
+GO:0016491	oxidoreductase activity	-1.66846804255274	0.00612101733731993	NA	NA	NA	mouse_specific
+GO:0097435	supramolecular fiber organization	2.09729830064892	0.0116143363407224	NA	NA	NA	mouse_specific
+GO:0044282	small molecule catabolic process	-1.77993712688934	0.0147876827318975	NA	NA	NA	mouse_specific
+GO:0012505	endomembrane system	1.73500191516837	0.0148463266818775	NA	NA	NA	mouse_specific
+GO:0019866	organelle inner membrane	-1.46053572532196	0.0161094220419182	NA	NA	NA	mouse_specific
+GO:0006082	organic acid metabolic process	-1.5790913741508	0.0172786915787432	NA	NA	NA	mouse_specific
+GO:1901605	alpha-amino acid metabolic process	-1.8750494426483	0.0173079418375874	NA	NA	NA	mouse_specific
+GO:0000315	organellar large ribosomal subunit	-1.90696526902236	0.0175990515978763	NA	NA	NA	mouse_specific
+GO:0019752	carboxylic acid metabolic process	-1.55166321982619	0.0292563114520066	NA	NA	NA	mouse_specific
+GO:0019953	sexual reproduction	1.8389477457285	0.0401216850155986	NA	NA	NA	mouse_specific
+GO:0045454	cell redox homeostasis	-1.96790643108953	0.0429259084557548	NA	NA	NA	mouse_specific
+GO:0005768	endosome	1.90128662972661	0.0480708067318795	NA	NA	NA	mouse_specific
+GO:0016070	NA	NA	NA	RNA metabolic process	-2.06698188467931	0.000913819275156241	human_specific
+GO:0009057	NA	NA	NA	macromolecule catabolic process	-2.15334359725209	0.00270208495857463	human_specific
+GO:0034660	NA	NA	NA	ncRNA metabolic process	-2.07697012158825	0.00270208495857463	human_specific
+GO:0140098	NA	NA	NA	catalytic activity, acting on RNA	-2.07311421279234	0.00270208495857463	human_specific
+GO:0032553	NA	NA	NA	ribonucleotide binding	-1.80355378968493	0.00270208495857463	human_specific
+GO:0006399	NA	NA	NA	tRNA metabolic process	-2.08198382845692	0.00312693869369721	human_specific
+GO:0006401	NA	NA	NA	RNA catabolic process	-2.16405805893904	0.00351686775227883	human_specific
+GO:0006396	NA	NA	NA	RNA processing	-2.00138353260428	0.00358478715838425	human_specific
+GO:0090304	NA	NA	NA	nucleic acid metabolic process	-1.7414423633076	0.00358478715838425	human_specific
+GO:0140640	NA	NA	NA	catalytic activity, acting on a nucleic acid	-1.94533020471038	0.00411532540286244	human_specific
+GO:0140101	NA	NA	NA	catalytic activity, acting on a tRNA	-2.0571925836151	0.00456739972040332	human_specific
+GO:0043167	NA	NA	NA	ion binding	-1.52672740152948	0.00456739972040332	human_specific
+GO:0006119	NA	NA	NA	oxidative phosphorylation	1.81322273455189	0.00970219919393792	human_specific
+GO:0034655	NA	NA	NA	nucleobase-containing compound catabolic process	-1.97198885375027	0.00973690313679126	human_specific
+GO:0009142	NA	NA	NA	nucleoside triphosphate biosynthetic process	1.8814104996787	0.0103346790095648	human_specific
+GO:0016071	NA	NA	NA	mRNA metabolic process	-1.99076276992774	0.0106819833963806	human_specific
+GO:0000959	NA	NA	NA	mitochondrial RNA metabolic process	-1.96158510747728	0.0106819833963806	human_specific
+GO:0016462	NA	NA	NA	pyrophosphatase activity	-1.84130254812156	0.0110068756760358	human_specific
+GO:0097159	NA	NA	NA	organic cyclic compound binding	-1.49253111037424	0.0129806698280443	human_specific
+GO:0000963	NA	NA	NA	mitochondrial RNA processing	-2.02623337446358	0.0144647526023903	human_specific
+GO:0016787	NA	NA	NA	hydrolase activity	-1.63677736665827	0.0144647526023903	human_specific
+GO:1903008	NA	NA	NA	organelle disassembly	-1.93825804131884	0.0201712869910512	human_specific
+GO:0033108	NA	NA	NA	mitochondrial respiratory chain complex assembly	1.74399972338531	0.0205542440217143	human_specific
+GO:0006402	NA	NA	NA	mRNA catabolic process	-1.96388859904974	0.0252893759069779	human_specific
+GO:0065003	NA	NA	NA	protein-containing complex assembly	1.61525510695857	0.0292022397015735	human_specific
+GO:0034470	NA	NA	NA	ncRNA processing	-1.83542946206015	0.0366170003491171	human_specific
+GO:0032042	NA	NA	NA	mitochondrial DNA metabolic process	-1.88163062628687	0.0388703745569049	human_specific
+GO:1990234	NA	NA	NA	transferase complex	-1.87858785705	0.0388703745569049	human_specific

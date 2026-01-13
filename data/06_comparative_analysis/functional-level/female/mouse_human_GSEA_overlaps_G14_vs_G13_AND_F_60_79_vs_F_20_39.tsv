@@ -1,0 +1,91 @@
+ID	Description_mouse	NES_mouse	padj_mouse	Description_human	NES_human	padj_human	pattern
+GO:0042776	proton motive force-driven mitochondrial ATP synthesis	-2.77354960923899	8.33038532617046e-09	NA	NA	NA	mouse_specific
+GO:0098800	inner mitochondrial membrane protein complex	-2.7378093102115	8.33038532617046e-09	NA	NA	NA	mouse_specific
+GO:0006119	oxidative phosphorylation	-2.71578168705222	8.33038532617046e-09	NA	NA	NA	mouse_specific
+GO:0098803	respiratory chain complex	-2.71106599723428	8.33038532617046e-09	NA	NA	NA	mouse_specific
+GO:0042773	ATP synthesis coupled electron transport	-2.57120447435102	8.33038532617046e-09	ATP synthesis coupled electron transport	-1.82641858253462	0.0293643398919071	both_down
+GO:0098798	mitochondrial protein-containing complex	-2.44975114208509	8.33038532617046e-09	mitochondrial protein-containing complex	-1.81398514035433	0.000456911483076741	both_down
+GO:0005743	mitochondrial inner membrane	-2.11594907466631	8.33038532617046e-09	NA	NA	NA	mouse_specific
+GO:0032991	protein-containing complex	-1.92955683066141	8.33038532617046e-09	protein-containing complex	-1.75000837631256	0.000371333565495866	both_down
+GO:0009165	nucleotide biosynthetic process	-2.17133506714402	6.24673142279071e-07	NA	NA	NA	mouse_specific
+GO:1902495	transmembrane transporter complex	-2.37160157525661	8.72106376126588e-07	NA	NA	NA	mouse_specific
+GO:1902494	catalytic complex	-1.99073599853215	2.84212572881675e-06	catalytic complex	-1.70910042360182	0.0256508433827491	both_down
+GO:0090304	nucleic acid metabolic process	1.94841950896408	3.06346454441515e-06	NA	NA	NA	mouse_specific
+GO:0005747	mitochondrial respiratory chain complex I	-2.36293422969946	3.1343083297602e-06	NA	NA	NA	mouse_specific
+GO:0140640	catalytic activity, acting on a nucleic acid	2.22292935958365	3.17666425906598e-06	NA	NA	NA	mouse_specific
+GO:0034660	ncRNA metabolic process	2.23981123146599	4.60314597441757e-06	NA	NA	NA	mouse_specific
+GO:1990204	oxidoreductase complex	-2.15056300529734	1.30068087918045e-05	NA	NA	NA	mouse_specific
+GO:0044281	small molecule metabolic process	-1.70907253042871	2.35601728713886e-05	NA	NA	NA	mouse_specific
+GO:0009259	ribonucleotide metabolic process	-1.92105787437583	3.51906114349269e-05	NA	NA	NA	mouse_specific
+GO:0009062	fatty acid catabolic process	-2.22136660076478	4.14277096189457e-05	NA	NA	NA	mouse_specific
+GO:0016209	antioxidant activity	-2.24835744770352	6.421982689711e-05	NA	NA	NA	mouse_specific
+GO:0006120	mitochondrial electron transport, NADH to ubiquinone	-2.25960295391303	7.03903309534544e-05	NA	NA	NA	mouse_specific
+GO:0004601	peroxidase activity	-2.22035638158668	9.18296902372248e-05	NA	NA	NA	mouse_specific
+GO:0010257	NADH dehydrogenase complex assembly	-2.13300333167885	9.18296902372248e-05	NA	NA	NA	mouse_specific
+GO:0034470	ncRNA processing	2.20611626949988	9.75870620150593e-05	NA	NA	NA	mouse_specific
+GO:0070069	cytochrome complex	-2.18166303767838	0.000124237004081201	NA	NA	NA	mouse_specific
+GO:0140098	catalytic activity, acting on RNA	1.98947551342208	0.000273521214885873	NA	NA	NA	mouse_specific
+GO:0034654	nucleobase-containing compound biosynthetic process	-1.75181071438851	0.00035798741661088	NA	NA	NA	mouse_specific
+GO:1901566	organonitrogen compound biosynthetic process	-1.64493698554961	0.000399218122549852	organonitrogen compound biosynthetic process	-1.53686833421245	0.0293643398919071	both_down
+GO:0006396	RNA processing	1.95916232706934	0.000440713248287035	NA	NA	NA	mouse_specific
+GO:0016491	oxidoreductase activity	-1.71225083733699	0.000450345204724644	NA	NA	NA	mouse_specific
+GO:0008168	methyltransferase activity	2.16113345948935	0.000501323389458895	NA	NA	NA	mouse_specific
+GO:0045277	respiratory chain complex IV	-2.14227698467692	0.000604488337607927	NA	NA	NA	mouse_specific
+GO:0005753	mitochondrial proton-transporting ATP synthase complex	-2.08563261648865	0.00075906242773621	NA	NA	NA	mouse_specific
+GO:0003735	structural constituent of ribosome	-1.9897311346132	0.00088147901876368	NA	NA	NA	mouse_specific
+GO:0015078	proton transmembrane transporter activity	-2.05758559664401	0.00089538236023326	NA	NA	NA	mouse_specific
+GO:0009055	electron transfer activity	-2.09714735982501	0.000909978721187681	NA	NA	NA	mouse_specific
+GO:0043209	myelin sheath	-2.05318159202644	0.000909978721187681	NA	NA	NA	mouse_specific
+GO:0016054	organic acid catabolic process	-1.86205990535481	0.00100478741655746	NA	NA	NA	mouse_specific
+GO:0007049	cell cycle	1.97132061209426	0.00130452494143783	NA	NA	NA	mouse_specific
+GO:0001650	fibrillar center	2.0953371287496	0.00306556088016069	NA	NA	NA	mouse_specific
+GO:0043412	macromolecule modification	1.69071530339104	0.00306556088016069	NA	NA	NA	mouse_specific
+GO:0000313	organellar ribosome	-1.80860961864123	0.00309084721076676	NA	NA	NA	mouse_specific
+GO:0006399	tRNA metabolic process	1.90824442584238	0.00351467114200519	NA	NA	NA	mouse_specific
+GO:0005777	peroxisome	-1.9312520728797	0.00361346624312219	NA	NA	NA	mouse_specific
+GO:0065003	protein-containing complex assembly	-1.65885105530995	0.00422265237744467	NA	NA	NA	mouse_specific
+GO:0042743	hydrogen peroxide metabolic process	-2.01299148160933	0.00510996824553786	NA	NA	NA	mouse_specific
+GO:0035639	purine ribonucleoside triphosphate binding	1.61740771472235	0.00583280434478028	NA	NA	NA	mouse_specific
+GO:1902600	proton transmembrane transport	-1.94757715155733	0.00583710930438306	NA	NA	NA	mouse_specific
+GO:0006259	DNA metabolic process	1.88751208838758	0.0065848847894343	NA	NA	NA	mouse_specific
+GO:0015934	large ribosomal subunit	-1.82312430734889	0.00851234272436573	NA	NA	NA	mouse_specific
+GO:0140096	catalytic activity, acting on a protein	1.69848459065601	0.00870887093163882	NA	NA	NA	mouse_specific
+GO:0032259	methylation	1.93866932259024	0.0105375970670957	NA	NA	NA	mouse_specific
+GO:0005216	monoatomic ion channel activity	-1.89115812652832	0.0105375970670957	NA	NA	NA	mouse_specific
+GO:0009451	RNA modification	1.87468774743828	0.0105375970670957	NA	NA	NA	mouse_specific
+GO:0005759	mitochondrial matrix	-1.53175949186712	0.0109483442894294	NA	NA	NA	mouse_specific
+GO:0016787	hydrolase activity	1.52289939549614	0.0110996538009564	NA	NA	NA	mouse_specific
+GO:0006260	DNA replication	1.92771797674824	0.0117326533216129	NA	NA	NA	mouse_specific
+GO:0000302	response to reactive oxygen species	-1.86979014642804	0.0120842723880834	NA	NA	NA	mouse_specific
+GO:0008033	tRNA processing	1.85187189926774	0.0120889809843622	NA	NA	NA	mouse_specific
+GO:0016741	transferase activity, transferring one-carbon groups	1.85657861684749	0.0135858992059491	NA	NA	NA	mouse_specific
+GO:1990234	transferase complex	1.84603900005155	0.0146490290880213	NA	NA	NA	mouse_specific
+GO:0140101	catalytic activity, acting on a tRNA	1.79331269024336	0.0151575425919436	NA	NA	NA	mouse_specific
+GO:0015267	channel activity	-1.84156697278308	0.0154282186917371	NA	NA	NA	mouse_specific
+GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	-1.87165309993707	0.0159378400372795	NA	NA	NA	mouse_specific
+GO:0034614	cellular response to reactive oxygen species	-1.83070810727766	0.0205228641739011	NA	NA	NA	mouse_specific
+GO:0045454	cell redox homeostasis	-1.83740388095457	0.0227626816588663	NA	NA	NA	mouse_specific
+GO:0016740	transferase activity	1.43790381975942	0.0239711375918195	NA	NA	NA	mouse_specific
+GO:0008092	cytoskeletal protein binding	1.85729449765071	0.0244031649763761	NA	NA	NA	mouse_specific
+GO:0006631	fatty acid metabolic process	-1.62645520214767	0.0264768559960192	NA	NA	NA	mouse_specific
+GO:0007005	mitochondrion organization	-1.45438044580625	0.0264768559960192	NA	NA	NA	mouse_specific
+GO:0043414	macromolecule methylation	1.85201026604449	0.0311630047537932	NA	NA	NA	mouse_specific
+GO:0003676	nucleic acid binding	1.47986832633348	0.0311630047537932	NA	NA	NA	mouse_specific
+GO:0016072	rRNA metabolic process	1.78381072871307	0.0357600360513958	NA	NA	NA	mouse_specific
+GO:0051656	establishment of organelle localization	1.86218385739044	0.0359968359484594	NA	NA	NA	mouse_specific
+GO:0140097	catalytic activity, acting on DNA	1.83130591712626	0.0369686645617498	NA	NA	NA	mouse_specific
+GO:0006402	mRNA catabolic process	1.87524421039362	0.0382265251442982	NA	NA	NA	mouse_specific
+GO:0043167	ion binding	1.31546929930988	0.0384852325051505	NA	NA	NA	mouse_specific
+GO:0043487	regulation of RNA stability	1.85336397235374	0.0390509583677652	NA	NA	NA	mouse_specific
+GO:0034220	monoatomic ion transmembrane transport	-1.66211692951743	0.0391438025341697	NA	NA	NA	mouse_specific
+GO:0009057	macromolecule catabolic process	1.58664112804482	0.0401134374037262	NA	NA	NA	mouse_specific
+GO:0045786	negative regulation of cell cycle	1.93939479038122	0.041291269652425	NA	NA	NA	mouse_specific
+GO:0072655	establishment of protein localization to mitochondrion	-1.66886302170448	0.041291269652425	NA	NA	NA	mouse_specific
+GO:0007010	cytoskeleton organization	1.76925106488786	0.0447335260435266	NA	NA	NA	mouse_specific
+GO:0032368	regulation of lipid transport	-1.77553985393281	0.0486713580289219	NA	NA	NA	mouse_specific
+GO:0016874	NA	NA	NA	ligase activity	-2.13340523330961	0.00233325374978712	human_specific
+GO:0009060	NA	NA	NA	aerobic respiration	-1.70625489158984	0.0256508433827491	human_specific
+GO:0006518	NA	NA	NA	peptide metabolic process	-1.68754620058786	0.0256508433827491	human_specific
+GO:0043603	NA	NA	NA	amide metabolic process	-1.60797046709137	0.0256508433827491	human_specific
+GO:0006099	NA	NA	NA	tricarboxylic acid cycle	-2.08150481237784	0.0293643398919071	human_specific
+GO:0022904	NA	NA	NA	respiratory electron transport chain	-1.7892272874719	0.0304460284971352	human_specific
