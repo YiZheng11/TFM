@@ -1,25 +1,42 @@
 # Mitochondrial Sex Dimorphism (TFM Code)
-This repository contains the shell scripts, R scripts, and Jupyter notebooks used in my Master’s thesis to analyse sexual dimorphism in mitochondrial gene expression in mouse liver and human liver/heart. The code implements a reproducible pipeline from read preprocessing and counting (mouse RNA‑seq) to differential expression and functional analyses on MitoCarta‑annotated genes in mouse and GTEx datasets.
+This repository contains the UNIX bash scripts, R scripts, Jupyter notebooks, and the input/output files used in my Master’s thesis (along with additional output files not presented in the thesis) to analyse sexual dimorphism in mitochondrial gene expression in mouse liver and human liver/heart. The code implements a reproducible pipeline from read preprocessing and counting (mouse RNA‑seq) to differential expression and functional analyses on MitoCarta-annotated genes in mouse and GTEx datasets.
 
-Raw sequencing data (mouse) and GTEx files are not included for privacy and storage reasons. The repository focuses on analysis scripts and how to regenerate the main summary tables and figures from the corresponding input files.
+Raw sequencing data (mouse) and full GTEx expression files are not included for privacy and storage reasons. The repository focuses on analysis scripts and representative data/results files that illustrate how to regenerate the main summary tables and figures from the corresponding inputs. These include both raw and filtered DESeq2 outputs, allowing users to start from HTSeq count tables or from the processed result tables, depending on their needs.
 
 ## Repository structure
 ```
 .
-├── 00_read_distribution.R          # QC summaries and read distribution plots for count data
-├── 01_deseq.R                      # Core DESeq2 differential expression for mouse liver
-├── 01A_tsv2excel.ipynb             # Export of DE/summary tables to Excel
-├── 01B_GO_classification.R         # GO classification/enrichment of significant genes
-├── 02_log2FC.R                     # Log2FC extraction and visualisation for selected gene sets
-├── 03_GSEA.R                       # GSEA on ranked gene lists (mouse liver)
-├── 04A_gtex_mitocarta.ipynb        # GTEx: import, filtering and MitoCarta subsetting
-├── 04B_gtex_distribution.R         # GTEx: sample distribution and exploratory plots
-├── 04C_deseq_gtex.R                # DESeq2 analyses for human liver and heart
-├── 05A_comparative_analysis_genes.R      # Cross‑species comparison at gene level
+├── data/                                # Input and intermediate data files
+│   ├── 04_htseq/                        # HTSeq count tables
+│   ├── 05_deseq/                         # DESeq2 input/output: raw and filtered results and normalized count tables
+│   ├── genes_of_interest/               # Gene lists used for log2FC.R analyses
+│   ├── gtex_v10_heart_aa_subject_meta.rds   # GTEx heart atrial appendage subject metadata
+│   ├── gtex_v10_heart_lv_subject_meta.rds   # GTEx heart left ventricle subject metadata
+│   ├── gtex_v10_liver_subject_meta.rds      # GTEx liver subject metadata
+│   ├── human2mouse.txt                  # Gene ID mapping: human -> mouse
+│   ├── mouse2human.txt                  # Gene ID mapping: mouse -> human
+│   └── Mouse.MitoCarta3.0_mm10to39.bed  # Mitochondrial gene set 
+├── extra/                               # Auxiliary tables and helper files
+│   ├── human/                           # Human auxiliary files
+│   └── mouse/                           # Mouse auxiliary files
+├── figuras/                             # Exported figures used in the thesis
+│   ├── comparative_analysis/            # Comparative analysis figures
+│   ├── human/                           # Human figures
+│   └── mouse                            # Mouse figures
+├── 00_read_distribution.R               # QC summaries and read distribution plots
+├── 01_deseq.R                           # Core DESeq2 differential expression (mouse liver)
+├── 01A_tsv2excel.ipynb                  # Export of DE/summary tables to Excel
+├── 01B_GO_classification.R              # GO classification/enrichment of significant genes
+├── 02_log2FC.R                          # Log2FC extraction and visualisation for selected gene sets
+├── 03_GSEA.R                            # GSEA on ranked gene lists (mouse and human)
+├── 04A_gtex_mitocarta.ipynb             # GTEx: import, filtering and MitoCarta subsetting
+├── 04B_gtex_distribution.R              # GTEx: sample distribution and exploratory plots
+├── 04C_deseq_gtex.R                     # DESeq2 analyses for human liver and heart
+├── 05A_comparative_analysis_genes.R     # Cross‑species comparison at gene level
 ├── 05B_comparative_analysis_function.R  # Cross‑species comparison at pathway level
-├── Mm_gtf_filt.sh                  # Mouse GTF preprocessing restricted to MitoCarta genes
-├── htseq_gtf_filt.sh               # HTSeq counting script using filtered GTF
-└── trim.sh                         # Read trimming and basic QC for mouse FASTQ files
+├── Mm_gtf_filt.sh                       # Mouse GTF preprocessing restricted to MitoCarta genes
+├── htseq_gtf_filt.sh                    # HTSeq counting script using filtered GTF
+└── trim.sh                              # Read trimming and basic QC for mouse FASTQ files
 ```
 Directories for data, results and figures should be created locally; adjust paths inside the scripts to match your environment.
 
@@ -67,8 +84,7 @@ Directories for data, results and figures should be created locally; adjust path
 
  ## Reproducibility
 Full reproduction of the analyses requires access to:
-- Mouse FASTQ/BAM files and the corresponding sample metadata.
-- GTEx expression data and metadata for liver, heart atrial appendage and left ventricle.
-- Human and mouse MitoCarta 3.0 gene lists.
+- Mouse FASTQ/BAM files and the corresponding sample metadata, however count tables are available.
+- Human MitoCarta 3.0 gene lists.
 
 Given equivalent inputs and correct paths, running the scripts in the order described above will regenerate the main count tables, DESeq2 results, GSEA outputs and most figures reported in the thesis.
